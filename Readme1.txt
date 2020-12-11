@@ -1,2 +1,4 @@
 line r1
 Edited line r2 from remote origin
+
+Edited line r3 from remote origin
